@@ -1,0 +1,22 @@
+1670790346799	geckodriver	INFO	Listening on 127.0.0.1:58465
+1670790459184	geckodriver	INFO	Listening on 127.0.0.1:58539
+1670790459388	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58540" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/gqjwdwk55kq1h036r0fwnwyw0000gn/T/rust_mozprofileI9QaIk"
+1670790460229	Marionette	INFO	Marionette enabled
+1670790460288	Marionette	INFO	Listening on port 58564
+Read port: 58564
+WebDriver BiDi listening on ws://127.0.0.1:58540
+1670790460528	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/gqjwdwk55kq1h036r0fwnwyw0000gn/T/rust_mozprofileI9QaIk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58540/devtools/browser/604a77f7-1762-4e99-884c-9e13b489089c
+1670790465182	Marionette	INFO	Stopped listening on port 58564
+1670791135135	geckodriver	INFO	Listening on 127.0.0.1:60631
+1670791135653	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60632" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/w8/gqjwdwk55kq1h036r0fwnwyw0000gn/T/rust_mozprofileSZyNHW"
+1670791136571	Marionette	INFO	Marionette enabled
+1670791136650	Marionette	INFO	Listening on port 60652
+Read port: 60652
+WebDriver BiDi listening on ws://127.0.0.1:60632
+1670791136922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w8/gqjwdwk55kq1h036r0fwnwyw0000gn/T/rust_mozprofileSZyNHW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60632/devtools/browser/0ee0dc72-f6fa-46d1-9b27-3fede2c6eb3d
+1670791183567	Marionette	INFO	Stopped listening on port 60652
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
